@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeTestp1
+  gitServerName: ICAccount0731
+  gitUrl: https://github.com/MeghaRaj69/EdgeTestp1
+  gitUsername: MeghaRaj69
+  gitToken: edge.scaffolding.EdgeTestp1.ICAccount0731.gitToken
+  gitBranch: testp1
